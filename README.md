@@ -18,7 +18,7 @@
 
 <h4>Connect With Me</h4>
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyubudiutomo/)[Uploading 68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f6170693f7468656d653d746f6b796f6e69676874.svg…]()
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyubudiutomo/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyu.budi.w.b33@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wahyubudiut)
 
@@ -32,10 +32,14 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 
+    
+<h2> Summary <img src = "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width = 32px> </h2>
 <br>
-[![Wahyu Budi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wahyubudii&theme=tokyonight)](https://git.io/praveenscience)
+  
+[![Wahyu Budi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wahyubudii)](https://git.io/praveenscience)
 
-| ![Wahyu Budi's github stats](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true&theme=tokyonight) | ![Wahyu Budi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyubudii&theme=tokyonight) |
+| ![Wahyu Budi's github stats](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true) | ![Wahyu Budi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyubudii) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyubudii&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyubudii) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
+
 <br>
