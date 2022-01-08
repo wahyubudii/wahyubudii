@@ -25,7 +25,7 @@ I am an enthusiastic, determined and tenacious student. flexible and professiona
 
 ### Connect With Me
   
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farkhan-hamzah-firdaus-5312a8202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyubudiutomo/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwRdtlVkGSwghCSLqGLJwVgpFLPhqjWQzXFLDvNgxfpDTJcqbtRwzNsSPRjwDGvMmZVjQrL)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wahyubudiut)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lvxxyz)
