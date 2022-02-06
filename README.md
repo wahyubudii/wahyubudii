@@ -18,8 +18,6 @@ I am an enthusiastic, determined and tenacious student. flexible and professiona
 <br>
   
 | ![Wahyu Budi's github stats](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true) | ![Wahyu Budi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyubudii) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyubudii) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=wahyubudii&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true) |
 
 <br>
 
