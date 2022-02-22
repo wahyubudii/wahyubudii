@@ -41,3 +41,5 @@ I am an enthusiastic, determined and tenacious student. flexible and professiona
 <a href= https://nodejs.org/en/> <img src ="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> </a>
 <a href= https://nodejs.org/en/> <img src ="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> </a>
 <a href= https://nodejs.org/en/> <img src ="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint"> </a>
+
+.
