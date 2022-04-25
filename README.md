@@ -9,7 +9,7 @@
 I am an enthusiastic, determined and tenacious student. flexible and professional in the work environment. Loves programming ❤ also little bit can design using Corel Draw and Figma tools
 
 - 💻 I’m currently studying computer science in University of Muhammadiyah Malang
-- 🌱 I’m currently learning React Js, Node Js, and Data Science
+- 🌱 I’m currently learning React Js, Node Js, Go
 - 💬 Ask me about Js, Python, Math, or anythings
 - ⚡ Fun fact: I love learn new things
 
