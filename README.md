@@ -5,7 +5,7 @@
     <img width="200" src="https://pbs.twimg.com/media/FHNMVK5VUAEbuMd?format=jpg&name=360x360">
 </p>
 
-### Hello < Everyone /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+### Hello < Everyone />
 I am an enthusiastic, determined and tenacious student. flexible and professional in the work environment. Loves programming ❤ also little bit can design using Corel Draw and Figma tools
 
 - 💻 I’m currently studying computer science in University of Muhammadiyah Malang
@@ -13,7 +13,7 @@ I am an enthusiastic, determined and tenacious student. flexible and professiona
 - 💬 Ask me about Js, Python, Math, or anythings
 - ⚡ Fun fact: I love learn new things
 
-### Summary <img src = "https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width = 32px>
+### Summary
 
 <br>
   
